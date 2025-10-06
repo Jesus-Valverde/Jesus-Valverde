@@ -5,6 +5,13 @@ I'm glad to welcome you to my README 📄
 
 ---
 
+👉 ## Tutorials
+
+This section is not finished yet 😅 <br>
+<img src="https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif" width="200" alt="Loading animation">
+
+---
+
  ## 👨‍💻Who am I?
  That's a really good question. 😃 I'm from Mexico <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="19" /> <br>
  I play a lot of games and enjoy creating cool stuff on my computer just for fun.  
