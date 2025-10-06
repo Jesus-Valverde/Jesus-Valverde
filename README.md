@@ -5,7 +5,7 @@ I'm glad to welcome you to my README 📄
 
 ---
 
-👉 ## Tutorials
+ ## 👉 Tutorials
 
 This section is not finished yet 😅 <br>
 <img src="https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif" width="200" alt="Loading animation">
