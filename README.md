@@ -1,18 +1,18 @@
 
 # ¡Hello internet user, nice to meet you! 👋 
-I'm **Jesval**  (or Jesús Valverde for more formality)
+I'm **Jesval**  (or Jesús Valverde for more formality) <br>
 I'm glad to welcome you to my README 📄
 
 ---
 
  ## 👨‍💻Who am I?
- That's a really good question. 😃 I'm from Mexico <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="19" />
+ That's a really good question. 😃 I'm from Mexico <img src="https://hatscripts.github.io/circle-flags/flags/mx.svg" width="19" /> <br>
  I play a lot of games and enjoy creating cool stuff on my computer just for fun.  
 
 ## 🎓 What did I study?  
-I started learning about computers in elementary school when my grandfather bought a PC.  
-In high school I chose IT specialization, then started learning about basic programming and web development.  
-Finally, I studied **B.S. in Systems Engineering** at *Facultad de Informática Mazatlán, Universidad Autónoma de Sinaloa*.
+I started learning about computers in elementary school when my grandfather bought a PC. <br>
+In high school I chose IT specialization, then started learning about basic programming and web development. <br>
+Finally, I studied **B.S. in Systems Engineering** at *Facultad de Informática Mazatlán, Universidad Autónoma de Sinaloa*. 
 
 ---
 
