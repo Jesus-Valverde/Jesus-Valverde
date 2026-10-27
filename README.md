@@ -7,8 +7,8 @@ I'm glad to welcome you to my README 📄
 
  ## 👉 Tutorials
 
-This section is not finished yet 😅 <br>
-<img src="https://media.giphy.com/media/RgzryV9nRCMHPVVXPV/giphy.gif" width="200" alt="Loading animation">
+- 📝 **[How to customize your GitHub profile README](https://github.com/Jesus-Valverde/github-profile-readme-tutorial)** — step-by-step guide with a real case study (mine): badges, stats cards, snake automation, and the traps nobody tells you about. <br>
+  *También en [español](https://github.com/Jesus-Valverde/github-profile-readme-tutorial/blob/main/README.es.md)*
 
 ---
 
