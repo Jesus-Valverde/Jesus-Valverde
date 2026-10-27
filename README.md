@@ -30,7 +30,7 @@ Finally, I studied **B.S. in Systems Engineering** at *Facultad de Informática 
 
 ## 📊 GitHub Stats
 
-<img alt="Jesval's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jesus-Valverde&show_icons=true&theme=tokyonight" align="top" width="49%" /> <img alt="Jesval's contribution streak" src="https://streak-stats.demolab.com?user=Jesus-Valverde&theme=tokyonight" align="top" width="49%" />
+<img alt="Jesval's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jesus-Valverde&show_icons=true&theme=tokyonight" align="top" width="48%" /> <img alt="Jesval's contribution streak" src="https://streak-stats.demolab.com?user=Jesus-Valverde&theme=tokyonight" align="top" width="51%" />
 
 ---
 
