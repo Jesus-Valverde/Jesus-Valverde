@@ -1,8 +1,10 @@
-🌐 [English](README.md) | [Español](README.es.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](README.md) [![es](https://img.shields.io/badge/lang-es-yellow.svg)](README.es.md)
 
 # ¡Hola usuario de internet, un gusto conocerte! 👋
 Soy **Jesval** (o Jesús Valverde para más formalidad) <br>
 Me alegra darte la bienvenida a mi README 📄
+
+![Visitas al perfil](https://komarev.com/ghpvc/?username=Jesus-Valverde&color=blueviolet&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 ---
 
@@ -44,7 +46,7 @@ Finalmente, estudié la **Ingeniería en Sistemas** en la *Facultad de Informát
 
 
 ##  📬  ¿Quieres contactarme? No dudes en dejar un mensaje 😉
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes-val/) [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jes.val) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusvalverde.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes-val/) [![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/jes.val) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jesusvalverde.dev@gmail.com) [![Patrocíname](https://img.shields.io/badge/Patrociname-blueviolet?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Jesus-Valverde)
 
 ---
 
