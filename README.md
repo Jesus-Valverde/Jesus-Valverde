@@ -27,13 +27,17 @@ Finally, I studied **B.S. in Systems Engineering** at *Facultad de Informática 
 ---
 
 ##  🚀 Technologies that I work with:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+<!-- One URL instead of 11 badge URLs (skills.syvixor.com auto-adapts to light/dark theme; tandem skillicons.dev lacks React Router and JWT icons). -->
+[![My technologies: HTML5, CSS3, JavaScript, MySQL, React, Vite, React Router, MUI, Python, Flask, JWT](https://skills.syvixor.com/api/icons?i=html,css,js,mysql,react,vite,reactrouter,mui,python,flask,jwt)](https://skills.syvixor.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-<img alt="Jesval's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jesus-Valverde&show_icons=true&theme=tokyonight" align="top" width="48%" /> <img alt="Jesval's contribution streak" src="https://streak-stats.demolab.com?user=Jesus-Valverde&theme=tokyonight" align="top" width="51%" />
+<img alt="Jesval's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jesus-Valverde&show_icons=true&theme=tokyonight" align="top" width="48%" /> <img alt="Jesval's contribution streak" src="https://streak-stats.demolab.com?user=Jesus-Valverde&theme=tokyonight" align="top" width="51%" /> <br>
+
+<img alt="Most used languages in my repositories (automatically computed)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jesus-Valverde&layout=compact&theme=tokyonight&langs_count=8" align="top" width="48%" />
 
 ---
 
