@@ -1,3 +1,4 @@
+🌐 [English](README.md) | [Español](README.es.md)
 
 # ¡Hello internet user, nice to meet you! 👋 
 I'm **Jesval**  (or Jesús Valverde for more formality) <br>
