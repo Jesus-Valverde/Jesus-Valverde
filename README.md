@@ -13,7 +13,7 @@ I'm glad to welcome you to my README 📄
 - 📝 **[How to customize your GitHub profile README](https://github.com/Jesus-Valverde/github-profile-readme-tutorial)** — step-by-step guide with a real case study (mine): badges, stats cards, snake automation, and the traps nobody tells you about. <br>
   *También en [español](https://github.com/Jesus-Valverde/github-profile-readme-tutorial/blob/main/README.es.md)*
 - 🔬 **[AI research & teaching pipeline](https://github.com/Jesus-Valverde/pipeline-material-autodidacta-didactico)** — my personal pipeline for research reports and teaching material: research → draft → design → produce, with every claim traced to a source. <br>
-  *En español. The README tutorial above was produced with this pipeline.*
+  *Bilingual (ES/EN). The README tutorial above was produced with this pipeline.*
 
 ---
 
