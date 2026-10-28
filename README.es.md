@@ -8,10 +8,12 @@ Me alegra darte la bienvenida a mi README 📄
 
 ---
 
- ## 👉 Tutoriales
+ ## 👉 Tutoriales y proyectos
 
 - 📝 **[Cómo personalizar tu README de perfil de GitHub](https://github.com/Jesus-Valverde/github-profile-readme-tutorial/blob/main/README.es.md)** — guía paso a paso con un caso de estudio real (el mío): badges, tarjetas de estadísticas, automatización de la serpiente y las trampas que nadie te cuenta. <br>
   *También en [inglés](https://github.com/Jesus-Valverde/github-profile-readme-tutorial#readme)*
+- 🔬 **[Pipeline de investigación y material didáctico con IA](https://github.com/Jesus-Valverde/pipeline-material-autodidacta-didactico)** — mi pipeline personal para informes de investigación y material de estudio: investigar → redactar → diseñar → producir, con cada dato trazable a su fuente. <br>
+  *El tutorial de arriba se produjo con este pipeline.*
 
 ---
 
